@@ -1,4 +1,4 @@
-DOCKER_BASE=realkinetic/http-to-https
+DOCKER_BASE=iansheridan/http-to-https
 DOCKER_TAG=1.0
 $(eval GIT_COMMIT = $(shell git rev-parse HEAD))
 
